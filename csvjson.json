@@ -5,7 +5,7 @@
   },
   {
     "Name": "Actimo",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/actimo.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/actimo.png"
   },
   {
     "Name": "Aha!",
@@ -33,7 +33,7 @@
   },
   {
     "Name": "Ardoq",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/ardoq.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/ardoq.png"
   },
   {
     "Name": "Asana",
@@ -113,11 +113,11 @@
   },
   {
     "Name": "Companies House",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/companieshouse.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/companieshouse.png"
   },
   {
     "Name": "Customer.io",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/customerio.svg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/customerio.png"
   },
   {
     "Name": "CVR",
@@ -169,7 +169,7 @@
   },
   {
     "Name": "e-conomic",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/economic.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/economic.png"
   },
   {
     "Name": "ElasticSearch",
@@ -177,11 +177,11 @@
   },
   {
     "Name": "Eloomi : Learning Management System",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/eloomi.svg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/eloomi.png"
   },
   {
     "Name": "Eloqua",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/eloqua.svg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/eloqua.png"
   },
   {
     "Name": "EMC Greenplum",
@@ -273,7 +273,7 @@
   },
   {
     "Name": "Google Cloud Streaming",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/googlecloudplatformlogo.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/googlecloudplatformlogo.png"
   },
   {
     "Name": "Google Contacts",
@@ -417,7 +417,7 @@
   },
   {
     "Name": "Marketo",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/marketo.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/marketo.png"
   },
   {
     "Name": "Meetup",
@@ -433,7 +433,7 @@
   },
   {
     "Name": "Microsoft Office 365",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/office365.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/office365.png"
   },
   {
     "Name": "Microsoft Teams",
@@ -677,7 +677,7 @@
   },
   {
     "Name": "TradeShift",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/tradeshift.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/tradeshift.png"
   },
   {
     "Name": "Trello",
@@ -701,7 +701,7 @@
   },
   {
     "Name": "Vertica",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/vertica.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/vertica.png"
   },
   {
     "Name": "Web Crawler",
@@ -709,7 +709,7 @@
   },
   {
     "Name": "webCRM",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/webcrm.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/webcrm.png"
   },
   {
     "Name": "Wikipedia",
@@ -757,6 +757,6 @@
   },
   {
     "Name": "Zuora",
-    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/zuora.jpg"
+    "Logo": "https://raw.githubusercontent.com/nickatodd/Connectid-Integrations/master/logos/zuora.png"
   }
 ]
